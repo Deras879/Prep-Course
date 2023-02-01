@@ -1,0 +1,13 @@
+Variables: las variables son pequeños cajones a los que se les da un nombre, y se les asigna un valor, bien sea de letra o de numero
+
+
+Strings: un string es una secuencia de caracteres, que puede incluir numeros, pero no se toman como numeros sino como texto
+
+
+Funciones: una función es un cajon mucho más grande, que de igual manera se le asigna un nombre, y además se le asigna una secuencia de ordenes para que la computadora los interprete. Es así que una funcion puede contener la sentencia return, que pintara en pantalla lo que se le ordene
+
+
+Declaraciones: las de claraciones con unas sentencias donde si una condicion interpuesta se cumple, se ejecutara lo que se le haya dicho, ignorando lo demás. pero si no se cumple, entonces ejecutara lo demás, saltandose la primer opción
+
+
+Valores Booleanos: estos valores se utilizan para indicar si una sentencia, como puede ser una igualdad, son ciertas, o falsas.
