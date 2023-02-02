@@ -1,0 +1,10 @@
+for: es una secuencia que se va a repetir, hasta llegar a la condición de parada establecida en la estructura del for, si no se especifica una condición de parada valida, se puede generar un ciclo infinito
+
+
+&&: el && es un operador que evalúa dos operandos pudiendo ser strings, numeros o variables. basicamente obliga a el codigo a que se cumplan todas las condiciones enlazadas con el && para poder seguir
+
+
+||: el || a diferencia del && no obliga a que se cumplan todas las condiciones presentadas, sino a que se cumpla una u otra.
+
+
+!: el Not de manera opuesta que el igual (=), es una condicion o puede ser una expresion, que indica dar el negativo del otro valor.
