@@ -1,0 +1,1 @@
+array: un array es un tipo de dato diferente a numeros, string o booleanos, porque almacena los datos con estructura de lista
