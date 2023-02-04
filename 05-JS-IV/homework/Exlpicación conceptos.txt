@@ -1,0 +1,17 @@
+objetos: un objeto es de cierta manera como un array, donde almacenamos "propiedades", estas propiedades son de cierta forma como el subindice del objeto; un objeto puede almacenar cualquier tipo de valor, ya sea numerico, string o booleano
+
+
+
+propiedades: las propiedades en los objetos son como el subindice de los array, donde en un array para acceder al primer valor era: array[0]; en el objeto es objeto["propiedad"]
+
+
+
+métodos: los metodos son funciones dentro de una propiedad de los objetos, de igual manera que una función en un array, los metodos se pueden invocar desde fuera: objeto["método"]()
+
+
+
+bucle for...in: en un bucle for in, de igual manera se declara una variable, que en lugar de ser un valor numerico es una "clave" después escribimos la segunda parte: el "in" y seguido el objeto al que vamos aplicar: for(let clave in objeto){}
+
+
+
+notación de puntos y corchetes: la notación en punto nos permite ahorrar tiempo al escribir menos cosas, pero tiene un inconveniente y es que si fuera del objeto declaramos una variable con un nombre, y dentro del objeto hay un propieda que lo comparte, la notación en punto va a comparar el valor de la variable si estuviese desntro del objeto: var edad = 20;  objeto = {edad = 12}   al notar: objeto.edad;   va a buscar como si hubiese un 20 como propiedad quedando como si dijera objeto["20"] en situaciones así es necesario usar la notacion con brackets para evitar esas confusiones.
