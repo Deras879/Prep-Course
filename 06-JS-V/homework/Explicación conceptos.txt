@@ -1,0 +1,6 @@
+Prototype: Teniendo en cuenta que JS está basado en objetos, el prototipo de un objeto es basicamente otro objeto con propiedades que comparte con el objeto de ser necesario, por ejemplo si hay un objeto "juan" que tiene las propiedades nombre: juan, edad: 19.    si le digo juan.getEdad();   como vemos no se definió una propiedad en el objeto "juan" entonces JS recurre al protoripo de un objeto que en este caso puede ser creado con una clase constructora y haer definido la propiedad getEdad en el prototipo
+
+
+
+
+__contructors__: al hacer una funcion de clases, definimos una funcion constructora, que es la que se va a encargar de recibir argumentos y de crear las propiedades del objeto en base a lo que se le establezca en la funcion constructora.
