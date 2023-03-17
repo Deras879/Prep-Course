@@ -1,0 +1,7 @@
+h1{color: gray;}
+img{width: 400px;}
+#thirdDiv{height: 600px; width: 500px; background-color: purple; border-color: green; border-style: double; border-width: 20px;
+margin: 0 auto;}
+#spanId{font-size: 18px; margin: 50px;}
+.divClass{width: 600px; margin: auto;}
+html{background-image: url(https://image.spreadshirtmedia.net/image-server/v1/products/T1302A1PA3321PT24X0Y0D146696499W20395H20395/views/1,width=550,height=550,appearanceId=1,backgroundColor=F2F2F2/pop-art-llama-alpaca-with-sunglasses-poster.jpg);}
